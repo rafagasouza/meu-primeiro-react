@@ -10,6 +10,7 @@ function App() {
 const mary = 'Mary'
   return (
     <>
+    <HelloWorld/>
     <Pessoa nome='Ráfaga Matos' idade="29" profissao="Programador" foto="https://avatars.githubusercontent.com/u/183849922?v=4"/>
     </>
   )
